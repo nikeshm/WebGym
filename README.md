@@ -1,7 +1,7 @@
 # WebGym
 A port of OpenAI's Gym for the Internet!
 
-The [OpenAI Gym](https://gym.openai.com/) is a a very popular toolkit for developing, testing, and optimizing reinforcement learning models. Currently, only automated algorithms can interact with the gym, making organic human data collection quite difficult; this project is meant to remediate that, and provide a novel way to collect real-world data for RL model development.
+The [OpenAI Gym](https://gym.openai.com/) is a very popular toolkit for developing, testing, and optimizing reinforcement learning models. Currently, only automated algorithms can interact with the gym, making organic human data collection quite difficult; this project is meant to remediate that, and provide a novel way to collect real-world data for RL model development.
 
 
 ## Getting Started
